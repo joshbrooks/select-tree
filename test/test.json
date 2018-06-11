@@ -1,0 +1,2078 @@
+[
+ {
+  "id": 1,
+  "level": 0,
+  "label": "Myanmar",
+  "parent": null
+ },
+ {
+  "id": 15,
+  "level": 1,
+  "label": "Ayeyarwady Region",
+  "parent": 1
+ },
+ {
+  "id": 234,
+  "level": 2,
+  "label": "Bogale",
+  "parent": 15
+ },
+ {
+  "id": 338,
+  "level": 2,
+  "label": "Danubyu",
+  "parent": 15
+ },
+ {
+  "id": 341,
+  "level": 2,
+  "label": "Dedaye",
+  "parent": 15
+ },
+ {
+  "id": 332,
+  "level": 2,
+  "label": "Einme",
+  "parent": 15
+ },
+ {
+  "id": 325,
+  "level": 2,
+  "label": "Hinthada",
+  "parent": 15
+ },
+ {
+  "id": 330,
+  "level": 2,
+  "label": "Ingapu",
+  "parent": 15
+ },
+ {
+  "id": 319,
+  "level": 2,
+  "label": "Kangyidaunt",
+  "parent": 15
+ },
+ {
+  "id": 340,
+  "level": 2,
+  "label": "Kyaiklat",
+  "parent": 15
+ },
+ {
+  "id": 329,
+  "level": 2,
+  "label": "Kyangin",
+  "parent": 15
+ },
+ {
+  "id": 324,
+  "level": 2,
+  "label": "Kyaunggon",
+  "parent": 15
+ },
+ {
+  "id": 322,
+  "level": 2,
+  "label": "Kyonpyaw",
+  "parent": 15
+ },
+ {
+  "id": 333,
+  "level": 2,
+  "label": "Labutta",
+  "parent": 15
+ },
+ {
+  "id": 327,
+  "level": 2,
+  "label": "Lemyethna",
+  "parent": 15
+ },
+ {
+  "id": 336,
+  "level": 2,
+  "label": "Maubin",
+  "parent": 15
+ },
+ {
+  "id": 335,
+  "level": 2,
+  "label": "Mawlamyinegyun",
+  "parent": 15
+ },
+ {
+  "id": 328,
+  "level": 2,
+  "label": "Myanaung",
+  "parent": 15
+ },
+ {
+  "id": 331,
+  "level": 2,
+  "label": "Myaungmya",
+  "parent": 15
+ },
+ {
+  "id": 321,
+  "level": 2,
+  "label": "Ngapudaw",
+  "parent": 15
+ },
+ {
+  "id": 337,
+  "level": 2,
+  "label": "Nyaungdon",
+  "parent": 15
+ },
+ {
+  "id": 221,
+  "level": 2,
+  "label": "Pantanaw",
+  "parent": 15
+ },
+ {
+  "id": 318,
+  "level": 2,
+  "label": "Pathein",
+  "parent": 15
+ },
+ {
+  "id": 339,
+  "level": 2,
+  "label": "Pyapon",
+  "parent": 15
+ },
+ {
+  "id": 320,
+  "level": 2,
+  "label": "Thabaung",
+  "parent": 15
+ },
+ {
+  "id": 334,
+  "level": 2,
+  "label": "Wakema",
+  "parent": 15
+ },
+ {
+  "id": 323,
+  "level": 2,
+  "label": "Yegyi",
+  "parent": 15
+ },
+ {
+  "id": 326,
+  "level": 2,
+  "label": "Zalun",
+  "parent": 15
+ },
+ {
+  "id": 8,
+  "level": 1,
+  "label": "Bago Region",
+  "parent": 1
+ },
+ {
+  "id": 110,
+  "level": 2,
+  "label": "Bago",
+  "parent": 8
+ },
+ {
+  "id": 117,
+  "level": 2,
+  "label": "Daik-U",
+  "parent": 8
+ },
+ {
+  "id": 139,
+  "level": 2,
+  "label": "Gyobingauk",
+  "parent": 8
+ },
+ {
+  "id": 124,
+  "level": 2,
+  "label": "Htantabin",
+  "parent": 8
+ },
+ {
+  "id": 112,
+  "level": 2,
+  "label": "Kawa",
+  "parent": 8
+ },
+ {
+  "id": 121,
+  "level": 2,
+  "label": "Kyaukkyi",
+  "parent": 8
+ },
+ {
+  "id": 116,
+  "level": 2,
+  "label": "Kyauktaga",
+  "parent": 8
+ },
+ {
+  "id": 77,
+  "level": 2,
+  "label": "Letpadan",
+  "parent": 8
+ },
+ {
+  "id": 133,
+  "level": 2,
+  "label": "Minhla",
+  "parent": 8
+ },
+ {
+  "id": 138,
+  "level": 2,
+  "label": "Monyo",
+  "parent": 8
+ },
+ {
+  "id": 136,
+  "level": 2,
+  "label": "Nattalin",
+  "parent": 8
+ },
+ {
+  "id": 115,
+  "level": 2,
+  "label": "Nyaunglebin",
+  "parent": 8
+ },
+ {
+  "id": 134,
+  "level": 2,
+  "label": "Okpho",
+  "parent": 8
+ },
+ {
+  "id": 123,
+  "level": 2,
+  "label": "Oktwin",
+  "parent": 8
+ },
+ {
+  "id": 128,
+  "level": 2,
+  "label": "Padaung",
+  "parent": 8
+ },
+ {
+  "id": 127,
+  "level": 2,
+  "label": "Paukkhaung",
+  "parent": 8
+ },
+ {
+  "id": 129,
+  "level": 2,
+  "label": "Paungde",
+  "parent": 8
+ },
+ {
+  "id": 122,
+  "level": 2,
+  "label": "Phyu",
+  "parent": 8
+ },
+ {
+  "id": 126,
+  "level": 2,
+  "label": "Pyay",
+  "parent": 8
+ },
+ {
+  "id": 131,
+  "level": 2,
+  "label": "Shwedaung",
+  "parent": 8
+ },
+ {
+  "id": 118,
+  "level": 2,
+  "label": "Shwegyin",
+  "parent": 8
+ },
+ {
+  "id": 119,
+  "level": 2,
+  "label": "Taungoo",
+  "parent": 8
+ },
+ {
+  "id": 111,
+  "level": 2,
+  "label": "Thanatpin",
+  "parent": 8
+ },
+ {
+  "id": 132,
+  "level": 2,
+  "label": "Thayarwady",
+  "parent": 8
+ },
+ {
+  "id": 130,
+  "level": 2,
+  "label": "Thegon",
+  "parent": 8
+ },
+ {
+  "id": 114,
+  "level": 2,
+  "label": "Waw",
+  "parent": 8
+ },
+ {
+  "id": 120,
+  "level": 2,
+  "label": "Yedashe",
+  "parent": 8
+ },
+ {
+  "id": 135,
+  "level": 2,
+  "label": "Zigon",
+  "parent": 8
+ },
+ {
+  "id": 5,
+  "level": 1,
+  "label": "Chin State",
+  "parent": 1
+ },
+ {
+  "id": 50,
+  "level": 2,
+  "label": "Falam",
+  "parent": 5
+ },
+ {
+  "id": 51,
+  "level": 2,
+  "label": "Hakha",
+  "parent": 5
+ },
+ {
+  "id": 57,
+  "level": 2,
+  "label": "Kanpetlet",
+  "parent": 5
+ },
+ {
+  "id": 56,
+  "level": 2,
+  "label": "Madupi",
+  "parent": 5
+ },
+ {
+  "id": 55,
+  "level": 2,
+  "label": "Mindat",
+  "parent": 5
+ },
+ {
+  "id": 34,
+  "level": 2,
+  "label": "Paletwa",
+  "parent": 5
+ },
+ {
+  "id": 53,
+  "level": 2,
+  "label": "Tedim",
+  "parent": 5
+ },
+ {
+  "id": 52,
+  "level": 2,
+  "label": "Thantlang",
+  "parent": 5
+ },
+ {
+  "id": 54,
+  "level": 2,
+  "label": "Tonzang",
+  "parent": 5
+ },
+ {
+  "id": 2,
+  "level": 1,
+  "label": "Kachin State",
+  "parent": 1
+ },
+ {
+  "id": 26,
+  "level": 2,
+  "label": "Bhamo",
+  "parent": 2
+ },
+ {
+  "id": 21,
+  "level": 2,
+  "label": "Chipwi",
+  "parent": 2
+ },
+ {
+  "id": 25,
+  "level": 2,
+  "label": "Hpakant",
+  "parent": 2
+ },
+ {
+  "id": 19,
+  "level": 2,
+  "label": "Injangyang",
+  "parent": 2
+ },
+ {
+  "id": 35,
+  "level": 2,
+  "label": "Khaunglanhpu",
+  "parent": 2
+ },
+ {
+  "id": 32,
+  "level": 2,
+  "label": "Machanbaw",
+  "parent": 2
+ },
+ {
+  "id": 29,
+  "level": 2,
+  "label": "Mansi",
+  "parent": 2
+ },
+ {
+  "id": 24,
+  "level": 2,
+  "label": "Mogaung",
+  "parent": 2
+ },
+ {
+  "id": 23,
+  "level": 2,
+  "label": "Mohnyin",
+  "parent": 2
+ },
+ {
+  "id": 28,
+  "level": 2,
+  "label": "Momauk",
+  "parent": 2
+ },
+ {
+  "id": 17,
+  "level": 2,
+  "label": "Myitkyina",
+  "parent": 2
+ },
+ {
+  "id": 33,
+  "level": 2,
+  "label": "Nawngmun",
+  "parent": 2
+ },
+ {
+  "id": 30,
+  "level": 2,
+  "label": "Puta-O",
+  "parent": 2
+ },
+ {
+  "id": 27,
+  "level": 2,
+  "label": "Shwegu",
+  "parent": 2
+ },
+ {
+  "id": 31,
+  "level": 2,
+  "label": "Sumprabum",
+  "parent": 2
+ },
+ {
+  "id": 20,
+  "level": 2,
+  "label": "Tanai",
+  "parent": 2
+ },
+ {
+  "id": 22,
+  "level": 2,
+  "label": "Tsawlaw",
+  "parent": 2
+ },
+ {
+  "id": 18,
+  "level": 2,
+  "label": "Waingmaw",
+  "parent": 2
+ },
+ {
+  "id": 3,
+  "level": 1,
+  "label": "Kayah State",
+  "parent": 1
+ },
+ {
+  "id": 40,
+  "level": 2,
+  "label": "Bawlakhe",
+  "parent": 3
+ },
+ {
+  "id": 37,
+  "level": 2,
+  "label": "Demoso",
+  "parent": 3
+ },
+ {
+  "id": 41,
+  "level": 2,
+  "label": "Hpasawng",
+  "parent": 3
+ },
+ {
+  "id": 38,
+  "level": 2,
+  "label": "Hpruso",
+  "parent": 3
+ },
+ {
+  "id": 36,
+  "level": 2,
+  "label": "Loikaw",
+  "parent": 3
+ },
+ {
+  "id": 42,
+  "level": 2,
+  "label": "Mese",
+  "parent": 3
+ },
+ {
+  "id": 39,
+  "level": 2,
+  "label": "Shadaw",
+  "parent": 3
+ },
+ {
+  "id": 4,
+  "level": 1,
+  "label": "Kayin State",
+  "parent": 1
+ },
+ {
+  "id": 44,
+  "level": 2,
+  "label": "Hlaingbwe",
+  "parent": 4
+ },
+ {
+  "id": 43,
+  "level": 2,
+  "label": "Hpa-An",
+  "parent": 4
+ },
+ {
+  "id": 45,
+  "level": 2,
+  "label": "Hpapun",
+  "parent": 4
+ },
+ {
+  "id": 48,
+  "level": 2,
+  "label": "Kawkareik",
+  "parent": 4
+ },
+ {
+  "id": 49,
+  "level": 2,
+  "label": "Kyainseikgyi",
+  "parent": 4
+ },
+ {
+  "id": 47,
+  "level": 2,
+  "label": "Myawaddy",
+  "parent": 4
+ },
+ {
+  "id": 46,
+  "level": 2,
+  "label": "Thandaunggyi",
+  "parent": 4
+ },
+ {
+  "id": 9,
+  "level": 1,
+  "label": "Magway Region",
+  "parent": 1
+ },
+ {
+  "id": 162,
+  "level": 2,
+  "label": "Aunglan",
+  "parent": 9
+ },
+ {
+  "id": 142,
+  "level": 2,
+  "label": "Chauk",
+  "parent": 9
+ },
+ {
+  "id": 171,
+  "level": 2,
+  "label": "Gangaw",
+  "parent": 9
+ },
+ {
+  "id": 161,
+  "level": 2,
+  "label": "Kamma",
+  "parent": 9
+ },
+ {
+  "id": 140,
+  "level": 2,
+  "label": "Magway",
+  "parent": 9
+ },
+ {
+  "id": 147,
+  "level": 2,
+  "label": "Minbu",
+  "parent": 9
+ },
+ {
+  "id": 159,
+  "level": 2,
+  "label": "Mindon",
+  "parent": 9
+ },
+ {
+  "id": 158,
+  "level": 2,
+  "label": "Minhla",
+  "parent": 9
+ },
+ {
+  "id": 167,
+  "level": 2,
+  "label": "Myaing",
+  "parent": 9
+ },
+ {
+  "id": 144,
+  "level": 2,
+  "label": "Myothit",
+  "parent": 9
+ },
+ {
+  "id": 145,
+  "level": 2,
+  "label": "Natmauk",
+  "parent": 9
+ },
+ {
+  "id": 154,
+  "level": 2,
+  "label": "Ngape",
+  "parent": 9
+ },
+ {
+  "id": 164,
+  "level": 2,
+  "label": "Pakokku",
+  "parent": 9
+ },
+ {
+  "id": 168,
+  "level": 2,
+  "label": "Pauk",
+  "parent": 9
+ },
+ {
+  "id": 148,
+  "level": 2,
+  "label": "Pwintbyu",
+  "parent": 9
+ },
+ {
+  "id": 155,
+  "level": 2,
+  "label": "Salin",
+  "parent": 9
+ },
+ {
+  "id": 174,
+  "level": 2,
+  "label": "Saw",
+  "parent": 9
+ },
+ {
+  "id": 170,
+  "level": 2,
+  "label": "Seikphyu",
+  "parent": 9
+ },
+ {
+  "id": 156,
+  "level": 2,
+  "label": "Sidoktaya",
+  "parent": 9
+ },
+ {
+  "id": 163,
+  "level": 2,
+  "label": "Sinbaungwe",
+  "parent": 9
+ },
+ {
+  "id": 143,
+  "level": 2,
+  "label": "Taungdwingyi",
+  "parent": 9
+ },
+ {
+  "id": 157,
+  "level": 2,
+  "label": "Thayet",
+  "parent": 9
+ },
+ {
+  "id": 172,
+  "level": 2,
+  "label": "Tilin",
+  "parent": 9
+ },
+ {
+  "id": 141,
+  "level": 2,
+  "label": "Yenangyaung",
+  "parent": 9
+ },
+ {
+  "id": 165,
+  "level": 2,
+  "label": "Yesagyo",
+  "parent": 9
+ },
+ {
+  "id": 10,
+  "level": 1,
+  "label": "Mandalay Region",
+  "parent": 1
+ },
+ {
+  "id": 113,
+  "level": 2,
+  "label": "Amarapura",
+  "parent": 10
+ },
+ {
+  "id": 175,
+  "level": 2,
+  "label": "Aungmyaythazan",
+  "parent": 10
+ },
+ {
+  "id": 80,
+  "level": 2,
+  "label": "Chanayethazan",
+  "parent": 10
+ },
+ {
+  "id": 91,
+  "level": 2,
+  "label": "Chanmyathazi",
+  "parent": 10
+ },
+ {
+  "id": 194,
+  "level": 2,
+  "label": "Kyaukpadaung",
+  "parent": 10
+ },
+ {
+  "id": 182,
+  "level": 2,
+  "label": "Kyaukse",
+  "parent": 10
+ },
+ {
+  "id": 125,
+  "level": 2,
+  "label": "Madaya",
+  "parent": 10
+ },
+ {
+  "id": 81,
+  "level": 2,
+  "label": "Mahaaungmyay",
+  "parent": 10
+ },
+ {
+  "id": 202,
+  "level": 2,
+  "label": "Mahlaing",
+  "parent": 10
+ },
+ {
+  "id": 200,
+  "level": 2,
+  "label": "Meiktila",
+  "parent": 10
+ },
+ {
+  "id": 180,
+  "level": 2,
+  "label": "Mogoke",
+  "parent": 10
+ },
+ {
+  "id": 187,
+  "level": 2,
+  "label": "Myingyan",
+  "parent": 10
+ },
+ {
+  "id": 184,
+  "level": 2,
+  "label": "Myittha",
+  "parent": 10
+ },
+ {
+  "id": 193,
+  "level": 2,
+  "label": "Natogyi",
+  "parent": 10
+ },
+ {
+  "id": 195,
+  "level": 2,
+  "label": "Ngazun",
+  "parent": 10
+ },
+ {
+  "id": 197,
+  "level": 2,
+  "label": "Nyaung-U",
+  "parent": 10
+ },
+ {
+  "id": 176,
+  "level": 2,
+  "label": "Patheingyi",
+  "parent": 10
+ },
+ {
+  "id": 199,
+  "level": 2,
+  "label": "Pyawbwe",
+  "parent": 10
+ },
+ {
+  "id": 102,
+  "level": 2,
+  "label": "Pyigyitagon",
+  "parent": 10
+ },
+ {
+  "id": 178,
+  "level": 2,
+  "label": "Pyinoolwin",
+  "parent": 10
+ },
+ {
+  "id": 179,
+  "level": 2,
+  "label": "Singu",
+  "parent": 10
+ },
+ {
+  "id": 183,
+  "level": 2,
+  "label": "Sintgaing",
+  "parent": 10
+ },
+ {
+  "id": 186,
+  "level": 2,
+  "label": "Tada-U",
+  "parent": 10
+ },
+ {
+  "id": 189,
+  "level": 2,
+  "label": "Taungtha",
+  "parent": 10
+ },
+ {
+  "id": 181,
+  "level": 2,
+  "label": "Thabeikkyin",
+  "parent": 10
+ },
+ {
+  "id": 203,
+  "level": 2,
+  "label": "Thazi",
+  "parent": 10
+ },
+ {
+  "id": 204,
+  "level": 2,
+  "label": "Wundwin",
+  "parent": 10
+ },
+ {
+  "id": 198,
+  "level": 2,
+  "label": "Yamethin",
+  "parent": 10
+ },
+ {
+  "id": 11,
+  "level": 1,
+  "label": "Mon State",
+  "parent": 1
+ },
+ {
+  "id": 220,
+  "level": 2,
+  "label": "Bilin",
+  "parent": 11
+ },
+ {
+  "id": 146,
+  "level": 2,
+  "label": "Chaungzon",
+  "parent": 11
+ },
+ {
+  "id": 206,
+  "level": 2,
+  "label": "Kyaikmaraw",
+  "parent": 11
+ },
+ {
+  "id": 219,
+  "level": 2,
+  "label": "Kyaikto",
+  "parent": 11
+ },
+ {
+  "id": 137,
+  "level": 2,
+  "label": "Mawlamyine",
+  "parent": 11
+ },
+ {
+  "id": 210,
+  "level": 2,
+  "label": "Mudon",
+  "parent": 11
+ },
+ {
+  "id": 215,
+  "level": 2,
+  "label": "Paung",
+  "parent": 11
+ },
+ {
+  "id": 207,
+  "level": 2,
+  "label": "Thanbyuzayat",
+  "parent": 11
+ },
+ {
+  "id": 212,
+  "level": 2,
+  "label": "Thaton",
+  "parent": 11
+ },
+ {
+  "id": 211,
+  "level": 2,
+  "label": "Ye",
+  "parent": 11
+ },
+ {
+  "id": 16,
+  "level": 1,
+  "label": "Naypyitaw",
+  "parent": 1
+ },
+ {
+  "id": 259,
+  "level": 2,
+  "label": "Det Khi Na Thi Ri",
+  "parent": 16
+ },
+ {
+  "id": 345,
+  "level": 2,
+  "label": "Lewe",
+  "parent": 16
+ },
+ {
+  "id": 346,
+  "level": 2,
+  "label": "Oke Ta Ra Thi Ri",
+  "parent": 16
+ },
+ {
+  "id": 343,
+  "level": 2,
+  "label": "Poke Ba Thi Ri",
+  "parent": 16
+ },
+ {
+  "id": 344,
+  "level": 2,
+  "label": "Pyinmana",
+  "parent": 16
+ },
+ {
+  "id": 242,
+  "level": 2,
+  "label": "Tatkon",
+  "parent": 16
+ },
+ {
+  "id": 241,
+  "level": 2,
+  "label": "Za Bu Thi Ri",
+  "parent": 16
+ },
+ {
+  "id": 342,
+  "level": 2,
+  "label": "Zay Yar Thi Ri",
+  "parent": 16
+ },
+ {
+  "id": 12,
+  "level": 1,
+  "label": "Rakhine State",
+  "parent": 1
+ },
+ {
+  "id": 236,
+  "level": 2,
+  "label": "Ann",
+  "parent": 12
+ },
+ {
+  "id": 231,
+  "level": 2,
+  "label": "Buthidaung",
+  "parent": 12
+ },
+ {
+  "id": 239,
+  "level": 2,
+  "label": "Gwa",
+  "parent": 12
+ },
+ {
+  "id": 232,
+  "level": 2,
+  "label": "Kyaukpyu",
+  "parent": 12
+ },
+ {
+  "id": 225,
+  "level": 2,
+  "label": "Kyauktaw",
+  "parent": 12
+ },
+ {
+  "id": 230,
+  "level": 2,
+  "label": "Maungdaw",
+  "parent": 12
+ },
+ {
+  "id": 226,
+  "level": 2,
+  "label": "Minbya",
+  "parent": 12
+ },
+ {
+  "id": 224,
+  "level": 2,
+  "label": "Mrauk-U",
+  "parent": 12
+ },
+ {
+  "id": 233,
+  "level": 2,
+  "label": "Munaung",
+  "parent": 12
+ },
+ {
+  "id": 227,
+  "level": 2,
+  "label": "Myebon",
+  "parent": 12
+ },
+ {
+  "id": 228,
+  "level": 2,
+  "label": "Pauktaw",
+  "parent": 12
+ },
+ {
+  "id": 223,
+  "level": 2,
+  "label": "Ponnagyun",
+  "parent": 12
+ },
+ {
+  "id": 235,
+  "level": 2,
+  "label": "Ramree",
+  "parent": 12
+ },
+ {
+  "id": 229,
+  "level": 2,
+  "label": "Rathedaung",
+  "parent": 12
+ },
+ {
+  "id": 222,
+  "level": 2,
+  "label": "Sittwe",
+  "parent": 12
+ },
+ {
+  "id": 237,
+  "level": 2,
+  "label": "Thandwe",
+  "parent": 12
+ },
+ {
+  "id": 238,
+  "level": 2,
+  "label": "Toungup",
+  "parent": 12
+ },
+ {
+  "id": 6,
+  "level": 1,
+  "label": "Sagaing Region",
+  "parent": 1
+ },
+ {
+  "id": 73,
+  "level": 2,
+  "label": "Ayadaw",
+  "parent": 6
+ },
+ {
+  "id": 84,
+  "level": 2,
+  "label": "Banmauk",
+  "parent": 6
+ },
+ {
+  "id": 71,
+  "level": 2,
+  "label": "Budalin",
+  "parent": 6
+ },
+ {
+  "id": 64,
+  "level": 2,
+  "label": "Chaung-U",
+  "parent": 6
+ },
+ {
+  "id": 95,
+  "level": 2,
+  "label": "Hkamti",
+  "parent": 6
+ },
+ {
+  "id": 96,
+  "level": 2,
+  "label": "Homalin",
+  "parent": 6
+ },
+ {
+  "id": 82,
+  "level": 2,
+  "label": "Indaw",
+  "parent": 6
+ },
+ {
+  "id": 88,
+  "level": 2,
+  "label": "Kale",
+  "parent": 6
+ },
+ {
+  "id": 89,
+  "level": 2,
+  "label": "Kalewa",
+  "parent": 6
+ },
+ {
+  "id": 66,
+  "level": 2,
+  "label": "Kanbalu",
+  "parent": 6
+ },
+ {
+  "id": 76,
+  "level": 2,
+  "label": "Kani",
+  "parent": 6
+ },
+ {
+  "id": 79,
+  "level": 2,
+  "label": "Katha",
+  "parent": 6
+ },
+ {
+  "id": 85,
+  "level": 2,
+  "label": "Kawlin",
+  "parent": 6
+ },
+ {
+  "id": 63,
+  "level": 2,
+  "label": "Khin-U",
+  "parent": 6
+ },
+ {
+  "id": 67,
+  "level": 2,
+  "label": "Kyunhla",
+  "parent": 6
+ },
+ {
+  "id": 98,
+  "level": 2,
+  "label": "Lahe",
+  "parent": 6
+ },
+ {
+  "id": 97,
+  "level": 2,
+  "label": "Lay Shi",
+  "parent": 6
+ },
+ {
+  "id": 93,
+  "level": 2,
+  "label": "Mawlaik",
+  "parent": 6
+ },
+ {
+  "id": 90,
+  "level": 2,
+  "label": "Mingin",
+  "parent": 6
+ },
+ {
+  "id": 59,
+  "level": 2,
+  "label": "Monywa",
+  "parent": 6
+ },
+ {
+  "id": 61,
+  "level": 2,
+  "label": "Myaung",
+  "parent": 6
+ },
+ {
+  "id": 60,
+  "level": 2,
+  "label": "Myinmu",
+  "parent": 6
+ },
+ {
+  "id": 99,
+  "level": 2,
+  "label": "Nanyun",
+  "parent": 6
+ },
+ {
+  "id": 78,
+  "level": 2,
+  "label": "Pale",
+  "parent": 6
+ },
+ {
+  "id": 94,
+  "level": 2,
+  "label": "Paungbyin",
+  "parent": 6
+ },
+ {
+  "id": 87,
+  "level": 2,
+  "label": "Pinlebu",
+  "parent": 6
+ },
+ {
+  "id": 58,
+  "level": 2,
+  "label": "Sagaing",
+  "parent": 6
+ },
+ {
+  "id": 72,
+  "level": 2,
+  "label": "Salingyi",
+  "parent": 6
+ },
+ {
+  "id": 62,
+  "level": 2,
+  "label": "Shwebo",
+  "parent": 6
+ },
+ {
+  "id": 69,
+  "level": 2,
+  "label": "Tabayin",
+  "parent": 6
+ },
+ {
+  "id": 92,
+  "level": 2,
+  "label": "Tamu",
+  "parent": 6
+ },
+ {
+  "id": 70,
+  "level": 2,
+  "label": "Taze",
+  "parent": 6
+ },
+ {
+  "id": 83,
+  "level": 2,
+  "label": "Tigyaing",
+  "parent": 6
+ },
+ {
+  "id": 65,
+  "level": 2,
+  "label": "Wetlet",
+  "parent": 6
+ },
+ {
+  "id": 86,
+  "level": 2,
+  "label": "Wuntho",
+  "parent": 6
+ },
+ {
+  "id": 68,
+  "level": 2,
+  "label": "Ye-U",
+  "parent": 6
+ },
+ {
+  "id": 75,
+  "level": 2,
+  "label": "Yinmabin",
+  "parent": 6
+ },
+ {
+  "id": 14,
+  "level": 1,
+  "label": "Shan State",
+  "parent": 1
+ },
+ {
+  "id": 307,
+  "level": 2,
+  "label": "Hopang",
+  "parent": 14
+ },
+ {
+  "id": 268,
+  "level": 2,
+  "label": "Hopong",
+  "parent": 14
+ },
+ {
+  "id": 288,
+  "level": 2,
+  "label": "Hseni",
+  "parent": 14
+ },
+ {
+  "id": 269,
+  "level": 2,
+  "label": "Hsihseng",
+  "parent": 14
+ },
+ {
+  "id": 300,
+  "level": 2,
+  "label": "Hsipaw",
+  "parent": 14
+ },
+ {
+  "id": 270,
+  "level": 2,
+  "label": "Kalaw",
+  "parent": 14
+ },
+ {
+  "id": 311,
+  "level": 2,
+  "label": "Kengtung",
+  "parent": 14
+ },
+ {
+  "id": 309,
+  "level": 2,
+  "label": "Konkyan",
+  "parent": 14
+ },
+ {
+  "id": 279,
+  "level": 2,
+  "label": "Kunhing",
+  "parent": 14
+ },
+ {
+  "id": 306,
+  "level": 2,
+  "label": "Kunlong",
+  "parent": 14
+ },
+ {
+  "id": 297,
+  "level": 2,
+  "label": "Kutkai",
+  "parent": 14
+ },
+ {
+  "id": 298,
+  "level": 2,
+  "label": "Kyaukme",
+  "parent": 14
+ },
+ {
+  "id": 280,
+  "level": 2,
+  "label": "Kyethi",
+  "parent": 14
+ },
+ {
+  "id": 277,
+  "level": 2,
+  "label": "Laihka",
+  "parent": 14
+ },
+ {
+  "id": 283,
+  "level": 2,
+  "label": "Langkho",
+  "parent": 14
+ },
+ {
+  "id": 287,
+  "level": 2,
+  "label": "Lashio",
+  "parent": 14
+ },
+ {
+  "id": 308,
+  "level": 2,
+  "label": "Laukkaing",
+  "parent": 14
+ },
+ {
+  "id": 273,
+  "level": 2,
+  "label": "Lawksawk",
+  "parent": 14
+ },
+ {
+  "id": 276,
+  "level": 2,
+  "label": "Loilen",
+  "parent": 14
+ },
+ {
+  "id": 304,
+  "level": 2,
+  "label": "Mabein",
+  "parent": 14
+ },
+ {
+  "id": 305,
+  "level": 2,
+  "label": "Manton",
+  "parent": 14
+ },
+ {
+  "id": 310,
+  "level": 2,
+  "label": "Matman",
+  "parent": 14
+ },
+ {
+  "id": 285,
+  "level": 2,
+  "label": "Mawkmai",
+  "parent": 14
+ },
+ {
+  "id": 316,
+  "level": 2,
+  "label": "Monghpyak",
+  "parent": 14
+ },
+ {
+  "id": 315,
+  "level": 2,
+  "label": "Monghsat",
+  "parent": 14
+ },
+ {
+  "id": 282,
+  "level": 2,
+  "label": "Monghsu",
+  "parent": 14
+ },
+ {
+  "id": 281,
+  "level": 2,
+  "label": "Mongkaing",
+  "parent": 14
+ },
+ {
+  "id": 312,
+  "level": 2,
+  "label": "Mongkhet",
+  "parent": 14
+ },
+ {
+  "id": 314,
+  "level": 2,
+  "label": "Mongla",
+  "parent": 14
+ },
+ {
+  "id": 294,
+  "level": 2,
+  "label": "Mongmao",
+  "parent": 14
+ },
+ {
+  "id": 303,
+  "level": 2,
+  "label": "Mongmit",
+  "parent": 14
+ },
+ {
+  "id": 284,
+  "level": 2,
+  "label": "Mongnai",
+  "parent": 14
+ },
+ {
+  "id": 286,
+  "level": 2,
+  "label": "Mongpan",
+  "parent": 14
+ },
+ {
+  "id": 216,
+  "level": 2,
+  "label": "Mongping",
+  "parent": 14
+ },
+ {
+  "id": 217,
+  "level": 2,
+  "label": "Mongton",
+  "parent": 14
+ },
+ {
+  "id": 289,
+  "level": 2,
+  "label": "Mongyai",
+  "parent": 14
+ },
+ {
+  "id": 313,
+  "level": 2,
+  "label": "Mongyang",
+  "parent": 14
+ },
+ {
+  "id": 317,
+  "level": 2,
+  "label": "Mongyawng",
+  "parent": 14
+ },
+ {
+  "id": 295,
+  "level": 2,
+  "label": "Muse",
+  "parent": 14
+ },
+ {
+  "id": 296,
+  "level": 2,
+  "label": "Namhkan",
+  "parent": 14
+ },
+ {
+  "id": 302,
+  "level": 2,
+  "label": "Namhsan",
+  "parent": 14
+ },
+ {
+  "id": 292,
+  "level": 2,
+  "label": "Namphan",
+  "parent": 14
+ },
+ {
+  "id": 301,
+  "level": 2,
+  "label": "Namtu",
+  "parent": 14
+ },
+ {
+  "id": 278,
+  "level": 2,
+  "label": "Nansang",
+  "parent": 14
+ },
+ {
+  "id": 299,
+  "level": 2,
+  "label": "Nawnghkio",
+  "parent": 14
+ },
+ {
+  "id": 267,
+  "level": 2,
+  "label": "Nyaungshwe",
+  "parent": 14
+ },
+ {
+  "id": 291,
+  "level": 2,
+  "label": "Pangsang",
+  "parent": 14
+ },
+ {
+  "id": 293,
+  "level": 2,
+  "label": "Pangwaun",
+  "parent": 14
+ },
+ {
+  "id": 275,
+  "level": 2,
+  "label": "Pekon",
+  "parent": 14
+ },
+ {
+  "id": 271,
+  "level": 2,
+  "label": "Pindaya",
+  "parent": 14
+ },
+ {
+  "id": 274,
+  "level": 2,
+  "label": "Pinlaung",
+  "parent": 14
+ },
+ {
+  "id": 218,
+  "level": 2,
+  "label": "Tachileik",
+  "parent": 14
+ },
+ {
+  "id": 290,
+  "level": 2,
+  "label": "Tangyan",
+  "parent": 14
+ },
+ {
+  "id": 214,
+  "level": 2,
+  "label": "Taunggyi",
+  "parent": 14
+ },
+ {
+  "id": 272,
+  "level": 2,
+  "label": "Ywangan",
+  "parent": 14
+ },
+ {
+  "id": 7,
+  "level": 1,
+  "label": "Tanintharyi Region",
+  "parent": 1
+ },
+ {
+  "id": 109,
+  "level": 2,
+  "label": "Bokpyin",
+  "parent": 7
+ },
+ {
+  "id": 100,
+  "level": 2,
+  "label": "Dawei",
+  "parent": 7
+ },
+ {
+  "id": 108,
+  "level": 2,
+  "label": "Kawthoung",
+  "parent": 7
+ },
+ {
+  "id": 105,
+  "level": 2,
+  "label": "Kyunsu",
+  "parent": 7
+ },
+ {
+  "id": 101,
+  "level": 2,
+  "label": "Launglon",
+  "parent": 7
+ },
+ {
+  "id": 104,
+  "level": 2,
+  "label": "Myeik",
+  "parent": 7
+ },
+ {
+  "id": 106,
+  "level": 2,
+  "label": "Palaw",
+  "parent": 7
+ },
+ {
+  "id": 107,
+  "level": 2,
+  "label": "Tanintharyi",
+  "parent": 7
+ },
+ {
+  "id": 103,
+  "level": 2,
+  "label": "Thayetchaung",
+  "parent": 7
+ },
+ {
+  "id": 74,
+  "level": 2,
+  "label": "Yebyu",
+  "parent": 7
+ },
+ {
+  "id": 13,
+  "level": 1,
+  "label": "Yangon Region",
+  "parent": 1
+ },
+ {
+  "id": 196,
+  "level": 2,
+  "label": "Ahlone",
+  "parent": 13
+ },
+ {
+  "id": 209,
+  "level": 2,
+  "label": "Bahan",
+  "parent": 13
+ },
+ {
+  "id": 248,
+  "level": 2,
+  "label": "Botahtaung",
+  "parent": 13
+ },
+ {
+  "id": 262,
+  "level": 2,
+  "label": "Cocokyun",
+  "parent": 13
+ },
+ {
+  "id": 208,
+  "level": 2,
+  "label": "Dagon",
+  "parent": 13
+ },
+ {
+  "id": 185,
+  "level": 2,
+  "label": "Dagon Myothit",
+  "parent": 13
+ },
+ {
+  "id": 188,
+  "level": 2,
+  "label": "Dagon Myothit",
+  "parent": 13
+ },
+ {
+  "id": 249,
+  "level": 2,
+  "label": "Dagon Myothit",
+  "parent": 13
+ },
+ {
+  "id": 250,
+  "level": 2,
+  "label": "Dagon Myothit (Seikkan)",
+  "parent": 13
+ },
+ {
+  "id": 260,
+  "level": 2,
+  "label": "Dala",
+  "parent": 13
+ },
+ {
+  "id": 177,
+  "level": 2,
+  "label": "Dawbon",
+  "parent": 13
+ },
+ {
+  "id": 264,
+  "level": 2,
+  "label": "Hlaing",
+  "parent": 13
+ },
+ {
+  "id": 160,
+  "level": 2,
+  "label": "Hlaingtharya",
+  "parent": 13
+ },
+ {
+  "id": 152,
+  "level": 2,
+  "label": "Hlegu",
+  "parent": 13
+ },
+ {
+  "id": 151,
+  "level": 2,
+  "label": "Hmawbi",
+  "parent": 13
+ },
+ {
+  "id": 240,
+  "level": 2,
+  "label": "Htantabin",
+  "parent": 13
+ },
+ {
+  "id": 149,
+  "level": 2,
+  "label": "Insein",
+  "parent": 13
+ },
+ {
+  "id": 265,
+  "level": 2,
+  "label": "Kamaryut",
+  "parent": 13
+ },
+ {
+  "id": 257,
+  "level": 2,
+  "label": "Kawhmu",
+  "parent": 13
+ },
+ {
+  "id": 255,
+  "level": 2,
+  "label": "Kayan",
+  "parent": 13
+ },
+ {
+  "id": 258,
+  "level": 2,
+  "label": "Kungyangon",
+  "parent": 13
+ },
+ {
+  "id": 263,
+  "level": 2,
+  "label": "Kyauktada",
+  "parent": 13
+ },
+ {
+  "id": 253,
+  "level": 2,
+  "label": "Kyauktan",
+  "parent": 13
+ },
+ {
+  "id": 201,
+  "level": 2,
+  "label": "Kyeemyindaing",
+  "parent": 13
+ },
+ {
+  "id": 191,
+  "level": 2,
+  "label": "Lanmadaw",
+  "parent": 13
+ },
+ {
+  "id": 192,
+  "level": 2,
+  "label": "Latha",
+  "parent": 13
+ },
+ {
+  "id": 266,
+  "level": 2,
+  "label": "Mayangone",
+  "parent": 13
+ },
+ {
+  "id": 150,
+  "level": 2,
+  "label": "Mingaladon",
+  "parent": 13
+ },
+ {
+  "id": 251,
+  "level": 2,
+  "label": "Mingalartaungnyunt",
+  "parent": 13
+ },
+ {
+  "id": 244,
+  "level": 2,
+  "label": "North Okkalapa",
+  "parent": 13
+ },
+ {
+  "id": 190,
+  "level": 2,
+  "label": "Pabedan",
+  "parent": 13
+ },
+ {
+  "id": 247,
+  "level": 2,
+  "label": "Pazundaung",
+  "parent": 13
+ },
+ {
+  "id": 205,
+  "level": 2,
+  "label": "Sanchaung",
+  "parent": 13
+ },
+ {
+  "id": 261,
+  "level": 2,
+  "label": "Seikgyikanaungto",
+  "parent": 13
+ },
+ {
+  "id": 213,
+  "level": 2,
+  "label": "Seikkan",
+  "parent": 13
+ },
+ {
+  "id": 243,
+  "level": 2,
+  "label": "Shwepyithar",
+  "parent": 13
+ },
+ {
+  "id": 173,
+  "level": 2,
+  "label": "South Okkalapa",
+  "parent": 13
+ },
+ {
+  "id": 153,
+  "level": 2,
+  "label": "Taikkyi",
+  "parent": 13
+ },
+ {
+  "id": 246,
+  "level": 2,
+  "label": "Tamwe",
+  "parent": 13
+ },
+ {
+  "id": 245,
+  "level": 2,
+  "label": "Thaketa",
+  "parent": 13
+ },
+ {
+  "id": 252,
+  "level": 2,
+  "label": "Thanlyin",
+  "parent": 13
+ },
+ {
+  "id": 166,
+  "level": 2,
+  "label": "Thingangyun",
+  "parent": 13
+ },
+ {
+  "id": 254,
+  "level": 2,
+  "label": "Thongwa",
+  "parent": 13
+ },
+ {
+  "id": 256,
+  "level": 2,
+  "label": "Twantay",
+  "parent": 13
+ },
+ {
+  "id": 169,
+  "level": 2,
+  "label": "Yankin",
+  "parent": 13
+ }
+]

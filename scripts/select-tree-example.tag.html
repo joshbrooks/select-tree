@@ -1,0 +1,77 @@
+<select-tree-example>
+    <hr>
+    <label>Search<input ref='term' type="text" placeholder="search" onchange="{search}"/></label>
+    <button onclick={showSelected}>Show selected items</button>
+    <button onclick={showAll}>Show all items</button>
+    <ul>
+        <virtual data-is='select-tree-leaf' node={node}></virtual>
+    </ul>
+    <hr>
+
+    <style>
+        .visible {color:blue};
+        .selected {color:green};
+        .search-highlight {
+            color:green;
+            font-weight: bold;
+        }
+    </style>
+
+    // Assumes a global called 'tree'
+    var tag = this;
+    tag.on('before-mount', function(opts){
+        tag.tree = window['tree']
+        tag.node = tag.tree.nodes[0]
+        // By default 'tree' has all nodes expanded. Hide all nodes where level > 1.
+        tag.tree.collapseToLevel(1)
+    })
+
+    tag.showSelected = function(){
+        tag.tree.showSelected();
+        tag.update();
+    }
+
+    tag.showAll = function(){
+        this.refs['term'].value = '';
+        this.search();
+    }
+
+    this.search = function(){
+        var nodes;
+        var term = this.refs['term'].value
+        // if (term.length < 3){return}
+        this.tree.searchNodes(term);
+        this.update()
+    }
+
+</select-tree-example>
+
+<select-tree-leaf>
+    <li if={opts.node.state.visible == 1}>
+        <button if={opts.node.children().length} onclick={toggleExpanded}>X</button>
+        <span class='{visible: opts.node.state.visible == 1, expanded:opts.node.state.expanded == 1, selected: opts.node.state.selected == 1}'>
+            <span if={!opts.node.search || !opts.node.search.length}>{opts.node.label} </span>
+            <span if={opts.node.search && opts.node.search.length}>
+                {opts.node.search[0]}<span class='search-highlight'>{opts.node.search[1]}</span>{opts.node.search[2]} 
+            </span> 
+            
+            {opts.node.id} {opts.node.level} {opts.node.parentId} | {opts.node.state.visible} | {opts.node.state.selected} | {opts.node.state.expanded} | {opts.node.state.selectable}
+        </span>
+        
+        <button disabled='{disabled: opts.node.state.selectable != 1}' onclick={toggleSelected}>S</button>
+    </li>
+    <ul if={opts.node.children().length && opts.node.state.expanded}>
+        <virtual each={node in opts.node.children()} data-is='select-tree-leaf' node={node}></virtual>
+    </ul>
+
+    this.toggleExpanded = function(){
+        this.opts.node.toggleState('expanded');
+    }
+    this.toggleSelected = function(){
+        this.opts.node.toggleState('selected');
+    }
+    this.toggleVisible = function(){
+        this.opts.node.toggleState('visible')
+    }
+
+</select-tree-leaf>

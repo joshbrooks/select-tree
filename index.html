@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en"> <!-- Set this to the main language of your site -->
+<head>
+    <meta charset="utf-8">
+
+    <title>Select Tree Element</title>
+
+    <!-- Enter a brief description of your page -->
+    <meta name="description" content="Example of select-tree implementation">
+
+    <!-- Define a viewport to mobile devices to use - telling the browser to assume that the page is as wide as the device (width=device-width,
+    and setting the initial page zoom level to be 1 (initial-scale=1.0), and fixing width=device-width for iOS9 (shtink-to-fit=no) -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+
+    <script src="scripts/node_modules/riot/riot+compiler.min.js"></script>
+    <script data-main="scripts/main" src="scripts/node_modules/requirejs/require.js"></script>
+    <script type='riot/tag' src='scripts/select-tree-example.tag.html'></script>
+
+</head>
+<body>
+
+    <!-- The page header typically contains items such as your site heading, logo and possibly the main site navigation -->
+    <!-- ARIA: the landmark role "banner" is set as it is the prime heading or internal title of the page -->
+    <header role="banner">
+
+        <h1>Select Tree</h1>
+
+    </header>
+
+    <select-tree-example></select-tree-example>
+
+</body>
+
+</html>
