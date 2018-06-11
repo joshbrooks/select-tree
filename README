@@ -1,0 +1,13 @@
+
+# Getting Started
+
+## TLDR
+
+cd scripts
+yarn install
+tsc
+cd ..
+
+python2 -m SimpleHTTPServer
+
+
