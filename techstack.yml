@@ -1,0 +1,116 @@
+repo_name: joshbrooks/select-tree
+report_id: f477f7bd28c0eaebd32a7e5c9f96b01b
+repo_type: Public
+timestamp: '2023-11-09T23:58:12+00:00'
+requested_by: joshbrooks
+provider: github
+branch: master
+detected_tools_count: 9
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: scripts/package.json
+  last_updated_by: joshbrooks
+  last_updated_on: 2018-06-11 14:13:13.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source: Repo Metadata
+- name: Riot
+  description: Simple and elegant component-based UI library
+  website_url: https://riot.js.org/
+  version: 2.6.8
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/2647/v9dRXi8N_400x400.png
+  detection_source_url: scripts/yarn.lock
+  detection_source: scripts/package.json
+  last_updated_by: joshbrooks
+  last_updated_on: 2018-06-11 14:13:13.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: scripts/yarn.lock
+  detection_source: scripts/package.json
+  last_updated_by: joshbrooks
+  last_updated_on: 2018-06-11 14:13:13.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: RequireJS
+  description: JavaScript file and module loader
+  website_url: http://requirejs.org/
+  version: 2.3.5
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/852/1781835.png
+  detection_source_url: scripts/yarn.lock
+  detection_source: scripts/package.json
+  last_updated_by: joshbrooks
+  last_updated_on: 2018-06-11 14:13:13.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source: scripts/yarn.lock
+  last_updated_by: joshbrooks
+  last_updated_on: 2018-06-11 14:13:13.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: scripts/package.json
+  last_updated_by: joshbrooks
+  last_updated_on: 2018-06-11 14:13:13.000000000 Z
+- name: "@types/jquery"
+  description: TypeScript definitions for jQuery
+  package_url: https://www.npmjs.com/@types/jquery
+  version: 3.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16363/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: scripts/yarn.lock
+  detection_source: scripts/package.json
+  last_updated_by: joshbrooks
+  last_updated_on: 2018-06-11 14:13:13.000000000 Z
